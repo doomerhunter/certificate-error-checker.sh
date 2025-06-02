@@ -13,7 +13,7 @@ The script attempts to connect to each host using `curl` and analyzes the SSL/TL
 ## Usage
 
 1. Create a `hosts.txt` file with your target hosts (one per line):
-2. 
+
 ```
 api.example.com:443
 secure-endpoint.target.com:8443
