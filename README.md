@@ -1,0 +1,1 @@
+# certificate-error-checker.sh
